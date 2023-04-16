@@ -4,7 +4,7 @@ I made this project for my learning
 
 ## Tools
 Python language is used for coding.
-Python language has a library Requests which can make http/https requests.
+Python language has a library `Requests` which can make http/https requests.
 
 ## Test Scenarios Implemented
 - Validation of Status Code
@@ -13,11 +13,6 @@ Python language has a library Requests which can make http/https requests.
 - Validation of values for temperature
 - Validation of population tag (example for test failure)
  
-## CICD
-CircleCI is used for CICD. 
-(signup required) Builds available at https://app.circleci.com/pipelines/github/rohitaroramsa/OpenWeatherAPI?invite=true
-I preferred CircleCI as it runs over a server compared to jenkins which requires local setup and hence difficult to share the setup.
-
 
 ## Project Structure
 Assessment project is built across multiple folders: 
